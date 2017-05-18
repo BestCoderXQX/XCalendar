@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="txtColor">#3d3d3d</color>
+    <color name="white">#fff</color>
+    <color name="grey_bg">#f2f2f2</color>
+    <!--用于分割线、标签描边-->
+    <color name="standard_line">#d9d9d9</color>
+    <!--主调色 用于顶部导航栏、标签栏、图标轮廓、按钮、体现整体色系风格-->
+    <color name="standard_blue_1">#4ab7e8</color>
+    <!--用于背景色-->
+    <color name="standard_bg">#f2f4f7</color>
+</resources>
